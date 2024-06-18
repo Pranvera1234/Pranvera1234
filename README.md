@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Pranvera1234
 - 👀 I’m interested in to star my new carier into tech industry. 
-- 🌱 I’m currently learning computer programming python.
+- 🌱 I’m currently learning python computer program.
 - 💞️ I’m looking to collaborate to new project and look forward to continuing my learning and growing my abilities. I am open to various industries.
-- 📫 How to reach me 
+- 📫 You can find me at: 
+- pranveratsipa@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
